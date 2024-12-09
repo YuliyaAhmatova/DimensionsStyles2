@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TextSize-->
+    <dimen name="textSizeSmall">10sp</dimen>
+    <dimen name="textSizeNormal">16sp</dimen>
+    <dimen name="textSizeLarge">20sp</dimen>
+
+    <!--VerticalMargin-->
+    <dimen name="verticalMarginSmall">10dp</dimen>
+    <dimen name="verticalMarginNormal">16dp</dimen>
+    <dimen name="verticalMarginLarge">20dp</dimen>
+
+    <!--HorizontalMargin-->
+    <dimen name="horizontalMarginSmall">10dp</dimen>
+    <dimen name="horizontalMarginNormal">16dp</dimen>
+    <dimen name="horizontalMarginLarge">20dp</dimen>
+
+    <!--Margin-->
+    <dimen name="marginSmall">10dp</dimen>
+    <dimen name="marginNormal">16dp</dimen>
+    <dimen name="marginLarge">20dp</dimen>
+
+    <!--VerticalPadding-->
+    <dimen name="verticalPaddingSmall">10dp</dimen>
+    <dimen name="verticalPaddingNormal">16dp</dimen>
+    <dimen name="verticalPaddingLarge">20dp</dimen>
+
+    <!--HorizontalPadding-->
+    <dimen name="horizontalPaddingSmall">10dp</dimen>
+    <dimen name="horizontalPaddingNormal">16dp</dimen>
+    <dimen name="horizontalPaddingLarge">20dp</dimen>
+
+    <!--Padding-->
+    <dimen name="paddingSmall">10dp</dimen>
+    <dimen name="paddingNormal">16dp</dimen>
+    <dimen name="paddingLarge">20dp</dimen>
+</resources>
